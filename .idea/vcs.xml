@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dart_forg_blog_app_backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dart_frog_blog_app_backend" vcs="Git" />
   </component>
 </project>
